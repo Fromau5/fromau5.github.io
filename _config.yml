@@ -26,8 +26,7 @@ twitter_username: jesustxk
 twitter:
     username: jesustxk
 lang: es_ES
-webmaster_verifications:
-    google: kcSgs5_DIbScB5CA7XtlMMEm3jcGgSHoHPhXz7TMDec
+google_site_verifications: kcSgs5_DIbScB5CA7XtlMMEm3jcGgSHoHPhXz7TMDec
     
 # Build settings
 markdown: kramdown
