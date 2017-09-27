@@ -16,9 +16,6 @@ social:
         - https://twitter.com/jesustxk
         - https://github.com/jesustxk
 
-google_site_verification: kcSgs5_DIbScB5CA7XtlMMEm3jcGgSHoHPhXz7TMDec
-
-timezone: Spain
 encoding: UTF-8
 lang: es_ES
     
@@ -35,3 +32,4 @@ exclude:
    - Gemfile.lock
    - node_modules
    - vendor
+   - README.md
