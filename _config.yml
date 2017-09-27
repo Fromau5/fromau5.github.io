@@ -1,14 +1,13 @@
 title: Jesús Checa
 description: Informática y tecnología. Web personal
 
-author: 
-    name: Jesús Checa
-    twitter: jesustxk
+author: Jesús Checa
 
 repository: jesustxk/jesustxk.github.io
 
-twitter:
-    username: jesustxk
+twitter_username: jesustxk
+github_username: jesustxk
+email: jesustxk@gmail.com
 
 social:
     name: Jesús Checa
