@@ -52,3 +52,5 @@ title: Inicio
 
 **GitHub:** [@jesustxk](https://github.com/jesustxk)
 
+**Twitter:** [@jesustxk](https://twitter.com/jesustxk
+
