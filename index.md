@@ -8,7 +8,7 @@ title: Inicio
 
 ### ESTUDIOS
 
-* **Grado en Ingeniería Informática, especialidad Ingeniería de Computadores** - Universidad de Huelva 2019
+* **Grado en Ingeniería Informática, especialidad Ingeniería de Computadores** - Universidad de Huelva 2020
 
 
 ### CERTIFICACIONES Y CURSOS
@@ -17,22 +17,10 @@ title: Inicio
 * **MOOC Redacción en Internet** - Miriada X 2015
 
 
-### COLABORACIÓN Y PARTICIPACIÓN
-
-* **Secretario y CM de UNIA (Asociación Universitarios Informáticos de Almería)** - desde 2015 hasta 2017
-* **Co-coordinador y CM del Club .NET Almería** - desde 2015 hasta 2017
-
-
-### EXPERIENCIA LABORAL
+### EXPERIENCIA
 
 **Laboral:**
 * **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
-* **Crowdsourcing en Clickworker.com** - desde 2013 hasta 2017
-
-**Congresos/eventos asistidos:**
-* Microsoft dotNet Conference Spain 2015
-* First Lego League Almería 2016 (voluntariado)
-* Jamtoday Almería 2016
 
 **Charlas impartidas:**
 * Hour of Code CEIP Virgen del Mar, Cabo de Gata (Almería) - Club .NET Almería, febrero 2015
@@ -44,6 +32,20 @@ title: Inicio
 * Introducción a Wave Engine - Club .NET Almería, julio 2015
 
 * Jornada informática CEIP San Sebastián, Santa Bárbara de Casa (Huelva) - enero 2016
+
+
+### COLABORACIÓN Y PARTICIPACIÓN
+
+* **Secretario y CM de UNIA (Asociación Universitarios Informáticos de Almería)** - desde 2015 hasta 2017
+* **Co-coordinador y CM del Club .NET Almería** - desde 2015 hasta 2017
+
+
+### OTRA FORMACIÓN
+
+**Congresos/eventos asistidos:**
+* Microsoft dotNet Conference Spain 2015
+* First Lego League Almería 2016 (voluntariado)
+* Jamtoday Almería 2016
 
 
 ### CONTACTO
