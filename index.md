@@ -40,6 +40,11 @@ title: Inicio
 * **Co-coordinador y CM del Club .NET Almería** - desde 2015 hasta 2017
 
 
+### IDIOMAS
+
+* Inglés B2
+
+
 ### OTRA FORMACIÓN
 
 **Congresos/eventos asistidos:**
