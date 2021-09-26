@@ -8,7 +8,7 @@ title: Inicio
 
 ### ESTUDIOS
 
-* **Grado en Ingeniería Informática, especialidad Ingeniería de Computadores** - Universidad de Huelva 2020
+* **Grado en Ingeniería Informática, especialidad Ingeniería de Computadores** - Universidad de Huelva 2021
 
 
 ### CERTIFICACIONES Y CURSOS
@@ -20,6 +20,7 @@ title: Inicio
 ### EXPERIENCIA
 
 **Laboral:**
+* **Desarrollador web, Everis** - Marzo 2021 - Actualidad
 * **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
 
 **Charlas impartidas:**
