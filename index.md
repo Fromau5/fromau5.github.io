@@ -8,6 +8,7 @@ title: Inicio
 
 ### ESTUDIOS
 
+* **Máster en Tecnologías y Aplicaciones en Ingeniería Informática** - Universidad de Almería 2022 - en curso
 * **Grado en Ingeniería Informática, especialidad Ingeniería de Computadores** - Universidad de Huelva 2021
 
 
