@@ -21,7 +21,7 @@ title: Inicio
 ### EXPERIENCIA
 
 **Laboral:**
-* **Desarrollador web, Everis** - Marzo 2021 - Actualidad
+* **Desarrollador web, NTT Data Europe & Latam** - Marzo 2021 - Actualidad
 * **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
 
 **Charlas impartidas:**
